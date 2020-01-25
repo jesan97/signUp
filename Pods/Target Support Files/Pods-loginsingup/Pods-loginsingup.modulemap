@@ -1,0 +1,6 @@
+framework module Pods_loginsingup {
+  umbrella header "Pods-loginsingup-umbrella.h"
+
+  export *
+  module * { export * }
+}
